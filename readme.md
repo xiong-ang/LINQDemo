@@ -53,7 +53,7 @@ var earlyBirdQuery =
 + Linq to CSV     
 + Linq to XML                  
     - xdocument     
-    ![](XML.PNG)
+    ![](https://github.com/xiong-ang/LINQDemo/blob/master/XML.PNG?raw=true)
     - [xdocument & xmldocument](https://www.cnblogs.com/HQFZ/p/4788428.html)      
     - [xnamespace](http://www.w3school.com.cn/xml/xml_namespaces.asp)
 + Linq to EF          
